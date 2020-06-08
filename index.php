@@ -1,4 +1,4 @@
 <?php
-header("Location: https://new-connect-devices.wixsite.com/website");
+header("Location: http://get-started-your-setup.site/actnor/");
 die();
 ?>
